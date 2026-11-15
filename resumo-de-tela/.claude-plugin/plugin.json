@@ -1,0 +1,1 @@
+{ "name": "resumo-de-tela", "version": "0.1.0", "description": "Ao fim de cada turno que editou arquivos, mostra numa linha o que mudou na tela", "author": { "name": "fbtostadev" }, "license": "MIT", "types": "./types/index.d.ts" }

@@ -1,0 +1,9 @@
+# Script pessoal de publicação local (confere a configuração desta máquina)
+publicar.sh
+
+# Tipos que o Claude Code gera ao carregar o mod
+.claude-plugin/types/
+*/.claude-plugin/types/
+
+.DS_Store
+*.log

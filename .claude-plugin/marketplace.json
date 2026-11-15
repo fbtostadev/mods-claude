@@ -1,0 +1,9 @@
+{
+  "name": "mods-fabricio",
+  "owner": { "name": "fbtostadev" },
+  "description": "Mods do Claude Code: painel de cotas com troca de modelo e esforço, e resumo do que mudou na tela",
+  "plugins": [
+    { "name": "cotas-e-esforco", "source": "./cotas-e-esforco", "description": "Painel com as cotas de 5h e 7d das contas Claude logadas e uma matriz para trocar modelo e esforço com um clique, aberto por /cotas" },
+    { "name": "resumo-de-tela", "source": "./resumo-de-tela", "description": "Ao fim de cada turno que editou arquivos, mostra numa linha o que mudou na tela" }
+  ]
+}

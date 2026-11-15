@@ -1,0 +1,1 @@
+{ "name": "cotas-e-esforco", "version": "0.2.0", "description": "Painel com as cotas de 5h e 7d das contas Claude logadas e uma matriz para trocar modelo e esforço com um clique, aberto por /cotas", "author": { "name": "fbtostadev" }, "license": "MIT", "types": "./types/index.d.ts" }
