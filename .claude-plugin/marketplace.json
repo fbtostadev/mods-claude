@@ -1,5 +1,5 @@
 {
-  "name": "mods-fabricio",
+  "name": "mods-claude",
   "owner": { "name": "fbtostadev" },
   "description": "Mods do Claude Code: painel de cotas com troca de modelo e esforço, e resumo do que mudou na tela",
   "plugins": [

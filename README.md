@@ -29,9 +29,9 @@ No app desktop: clique em **+** ao lado da caixa do prompt, **Plugins**, **Add m
 ## Atualizar e remover
 
 ```
-claude plugin marketplace update mods-fabricio
-claude plugin update cotas-e-esforco@mods-fabricio
-claude plugin uninstall cotas-e-esforco@mods-fabricio
+claude plugin marketplace update mods-claude
+claude plugin update cotas-e-esforco@mods-claude
+claude plugin uninstall cotas-e-esforco@mods-claude
 ```
 
 Depois de atualizar, reinicie as sessões abertas (ou rode `/reload-plugins`).

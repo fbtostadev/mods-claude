@@ -53,4 +53,4 @@ Uma moldura por conta (azul na conta desta sessão, cinza nas outras), com duas 
 
 - Validar e testar: `claude plugin validate .` e `claude plugin test .`
 - Ver a mudança sem publicar: `claude --plugin-dir <esta pasta>`, que recarrega ao editar.
-- Publicar: suba `version` no `.claude-plugin/plugin.json` e faça push. Quem já instalou recebe com `claude plugin marketplace update mods-fabricio` e `claude plugin update cotas-e-esforco@mods-fabricio`.
+- Publicar: suba `version` no `.claude-plugin/plugin.json` e faça push. Quem já instalou recebe com `claude plugin marketplace update mods-claude` e `claude plugin update cotas-e-esforco@mods-claude`.
